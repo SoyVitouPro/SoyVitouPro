@@ -13,7 +13,7 @@
 
 
 
-<h3 align="center">🚀 Passionate AI & ML Engineer | Transforming Ideas into Intelligent Solutions</h3>
+<h3 align="center">🚀 No Experience | No Solution | Sleeping</h3>
 
 <hr />
 
@@ -21,17 +21,17 @@
 
 
 
-- 🔭 I’m currently working on Machine Learning ( Image Processing )
+- 🔭 I’m currently working on Planting 🌱
 
-- 🌱 I’m currently learning **Python, Pytorch, Tensorflow, JavaScript, React, etc...**
+- 📝 I’m currently learning who am I ?
 
-- 👯 I’m looking to collaborate on **Machine Learning**
+- 👯 I’m looking to collaborate on **Broken Person**
 
-- 💬 Ask me about **Python, Unity**
+- 💬 Ask me about **How to become Overthinker**
 
-- 📫 How to reach me **Soy vitou Pro**
+- 📫 How to reach me **Air**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **Slanh ke mnak eng**
 
 <br />
 
