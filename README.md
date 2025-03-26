@@ -21,9 +21,9 @@
 
 
 
-- 🔭 I’m currently working on Planting 🌱
+- 🔭 I’m currently working on Face 😌 to Smile 😊 🌱
 
-- 📝 I’m currently learning who am I ?
+- 📝 I’m currently learning how to smile alone ?
 
 - 👯 I’m looking to collaborate on **Broken Person**
 
@@ -31,7 +31,7 @@
 
 - 📫 How to reach me **Air**
 
-- ⚡ Fun fact **Slanh ke mnak eng**
+- ⚡ Fun fact **der lg kmen tngai chob**
 
 <br />
 
