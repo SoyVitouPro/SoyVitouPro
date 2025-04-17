@@ -21,17 +21,17 @@
 
 
 
-- 🔭 I’m currently working on Face 😌 to Smile 😊 🌱
+- 🔭 I’m currently working on AI Project (ASR, TTS, Face, Voice Cloning)🌱
+- 
+- 📝 My Tools: Python, Pytorch, Nginx, Caddy, Docker, Cloudflare, Portainer, Flask Fast API, Termius, mkdos, ...
 
-- 📝 I’m currently learning how to smile alone ?
+- 👯 I’m looking to collaborate on **AI Project**
 
-- 👯 I’m looking to collaborate on **Broken Person**
+- 💬 Reach out me through telegram: 0964060587
 
-- 💬 Ask me about **How to become Overthinker**
-
-- 📫 How to reach me **Air**
-
-- ⚡ Fun fact **der lg kmen tngai chob**
+- 📫 Experience: Create Content, Web Development, Dasktop APP Development, AI Project
+  
+- ⚡ Fun fact **STudy 4Ever**
 
 <br />
 
