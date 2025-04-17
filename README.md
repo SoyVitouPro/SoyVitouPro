@@ -21,7 +21,7 @@
 
 
 
-- 🔭 I’m currently working on AI Project (ASR, TTS, Face, Voice Cloning)🌱
+- 🔭 I’m currently working on AI Project (ASR, TTS, Face, Voice Cloning, NLP, Image Processing ...)🌱
 
 - 📝 My Tools: Python, Pytorch, Nginx, Caddy, Docker, Cloudflare, Portainer, Flask Fast API, Termius, mkdos, ...
 
