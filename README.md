@@ -31,7 +31,7 @@
 
 - 📫 Experience: Create Content, Web Development, Dasktop APP Development, AI Project
   
-- ⚡ Fun fact **STudy 4Ever**
+- ⚡ Fun fact **update readme everyday**
 
 <br />
 
