@@ -44,7 +44,7 @@
 
 
 - 💬 My blog post: [soyvitou.bongrean.com](https://soyvitou.bongrean.com/)
-- 💬 Setup Cloudflare: [soyvitou.bongrean.com](https://solstice-goat-844.notion.site/Cloudflare-1cee08028422800f8feef3200a00f73c)
+- 💬 Setup Cloudflare: [setup cloudflare self-hosting](https://solstice-goat-844.notion.site/Cloudflare-1cee08028422800f8feef3200a00f73c)
 
 
 
