@@ -1,4 +1,4 @@
-[![MasterHead](2025.png)](https://github.com/SoyVitou2019)
+[![MasterHead](github_thumnail.png)](https://github.com/SoyVitou2019)
 <h1 align="center">
   Hi 💤, I'm VP (Vitou Pro) 😴
   <hr />
