@@ -1,4 +1,4 @@
-[![MasterHead](kmengai_thumnail_v2_nature.png)](https://github.com/SoyVitou2019)
+[![MasterHead](kmengai_thumnail_v2 nature.png)](https://github.com/SoyVitou2019)
 <h1 align="center">
   Hi 💤, I'm VP (Vitou Pro) 😴
   <hr />
