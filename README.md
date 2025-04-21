@@ -46,7 +46,37 @@
 - 💬 My blog post: [soyvitou.bongrean.com](https://soyvitou.bongrean.com/)
 - ☁️ Setup Cloudflare: [setup cloudflare self-hosting](https://solstice-goat-844.notion.site/Cloudflare-1cee08028422800f8feef3200a00f73c)
 
+### =========== 🚀 Programming Language and Tools 🚀 ============
+###
+<hr />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" height="30" alt="grafana logo" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" height="30" alt="prometheus logo" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" height="30" alt="cloudflare logo" />
+</div>
+<hr />
 
+###
 
 
 
