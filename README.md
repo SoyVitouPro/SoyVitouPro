@@ -29,7 +29,7 @@
 
 - 💬 Reach out me through telegram: 0964060587
 
-- 📫 Experience: Content Creation, Web Dev, Dasktop APP Dev, MLOps
+- 📫 Experience: Content Creation, DevOps, MLOps
   
 - ⚡ Fun fact **update readme everyday**
 
