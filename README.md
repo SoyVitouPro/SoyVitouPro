@@ -17,7 +17,7 @@
 
 <hr />
 
-<img align="right" alt="coding" width="400" src="3BBS.gif">
+<img align="right" alt="coding" width="400" src="thousand_miles.gif">
 
 
 
