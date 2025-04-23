@@ -33,6 +33,8 @@
   
 - ⚡ Fun fact **update readme everyday**
 
+- 🌲 Thesis defense project is **Khmer Handwritten OCR**
+
 <br />
 
 <!-- Activity Graph card -->
