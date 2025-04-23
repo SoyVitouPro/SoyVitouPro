@@ -1,3 +1,4 @@
+<!-- banner image github_thumnail.png you can change ever you want -->
 [![MasterHead](github_thumnail.png)](https://github.com/SoyVitou2019)
 <h1 align="center">
   🌲 Hi , 💬 Welcome, legend in this jungle 🔥
@@ -17,7 +18,7 @@
 
 <hr />
 
-<!-- left image ( animation gif image left hand side ) --> 
+<!-- right image ( animation gif image right hand side ) --> 
 <img align="right" alt="coding" width="400" src="thousand_miles.gif">
 
 
