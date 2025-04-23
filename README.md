@@ -46,8 +46,8 @@
 - 💬 My blog post: [soyvitou.bongrean.com](https://soyvitou.bongrean.com/)
 - ☁️ Setup Cloudflare: [setup cloudflare self-hosting](https://solstice-goat-844.notion.site/Cloudflare-1cee08028422800f8feef3200a00f73c)
 
-### =========== 🚀 Programming Language and Tools 🚀 ============
-###
+### 🔥 Programming Language and Tools 
+
 <hr />
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
