@@ -18,7 +18,7 @@
 
 <hr />
 
-<!-- right image ( animation gif image right hand side ) --> 
+<!-- right image ( animation gif image right hand side (ok) ) --> 
 <img align="right" alt="coding" width="400" src="thousand_miles.gif">
 
 
