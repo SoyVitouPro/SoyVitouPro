@@ -11,7 +11,7 @@
 </table>
 </h1> 
 
-  
+   
  
 
 <h3 align="center">zzzz | Khmer OCR | Text2Speech | Speech2Text | Voice Conversion | zzzz </h3>
