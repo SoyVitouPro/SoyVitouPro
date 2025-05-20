@@ -2,7 +2,7 @@
 [![MasterHead](github_thumnail.png)](https://github.com/SoyVitou2019)
 <h1 align="center">
   🌲 Hi , 💬 Welcome, legend in this jungle 🔥
-  <hr />
+  <hr /> 
   <table align="center">   
     <tr border: none;>
       <td><img src="https://komarev.com/ghpvc/?username=soyvitoupro&label=Profile%20views&color=be4d25&style=for-the-badge" alt="soyvitou2019" /></td>
