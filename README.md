@@ -16,7 +16,7 @@
 
 <h3 align="center">zzzz | Khmer OCR | Text2Speech | Speech2Text | Voice Conversion | zzzz </h3>
 
-<hr />
+<hr /> 
 
 <!-- right image ( animation gif image right hand side (ok) ) --> 
 <img align="right" alt="coding" width="400" src="thousand_miles.gif"> 
