@@ -33,6 +33,8 @@
 
 - 📫 Experience: Content Creation, DevOps, MLOps
   
+- 🎓 Defense thesis 23/Jun/2025
+  
 - ⚡ Fun fact **update readme everyday**
 
 - 🌲 Thesis defense project is **Khmer Handwritten OCR**
