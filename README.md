@@ -37,7 +37,7 @@
   
 - ⚡ Fun fact **update readme everyday**
 
-- 🌲 Thesis defense project is **Khmer Handwritten OCR**
+- 🌲 Thesis Project: **CRAFT + TrOCR**
 
 <br />
  
