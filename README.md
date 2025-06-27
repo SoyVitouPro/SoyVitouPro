@@ -25,7 +25,7 @@
 
 - 🔭 I’m currently working on AI Project (ASR, TTS, Face, Voice Cloning, NLP, Image Processing ...)🌱
 
-- 🔥 My Tools: Python, Pytorch, Nginx, Caddy, Docker, Cloudflare, Portainer, Flask & Fast API, Termius, mkdocs, ...
+- 🔥 My Tools: Python, Pytorch, Nginx, Caddy, Docker, Cloudflare, Portainer, Flask & Fast API, Termius, wandb ...
 
 - 👯 I’m looking to collaborate on **AI Project**
 
