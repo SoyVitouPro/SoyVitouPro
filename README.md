@@ -14,7 +14,7 @@
    
   
 
-<h3 align="center">zzzz | Khmer OCR | Text2Speech | Speech2Text | Voice Conversion | zzzz </h3>
+<h3 align="center">zzzz | Khmer OCR | Speech2Text | Voice Conversion | zzzz </h3>
 
 <hr /> 
 
