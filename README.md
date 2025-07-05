@@ -52,36 +52,56 @@
 - 💬 My blog post: [soyvitou.bongrean.com](https://soyvitou.bongrean.com/)
 - ☁️ Setup Cloudflare: [setup cloudflare self-hosting](https://solstice-goat-844.notion.site/Cloudflare-1cee08028422800f8feef3200a00f73c)
 
-### 🔥 Programming Language and Tools 
+## 🔥 Programming Language and Tools
 
-<hr />
+<div align="center">
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" height="30" alt="grafana logo" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" height="30" alt="prometheus logo" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" height="30" alt="cloudflare logo" />
+<table>
+<tr>
+<td align="center" width="200px"><b>AI/ML & Data Science</b></td>
+<td align="center" width="200px"><b>Backend & APIs</b></td>
+<td align="center" width="200px"><b>Frontend & Web</b></td>
+<td align="center" width="200px"><b>DevOps & Infrastructure</b></td>
+<td align="center" width="200px"><b>AI Tools & Platforms</b></td>
+</tr>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="52" alt="python" /></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="52" alt="fastapi" /></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="52" alt="react" /></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="52" alt="docker" /></td>
+<td align="center"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="52" alt="huggingface" /></td>
+</tr>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="52" alt="pytorch" /></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="52" alt="nodejs" /></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="52" alt="javascript" /></td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" height="52" alt="cloudflare" /></td>
+<td align="center"><img src="https://wandb.ai/logo.svg" height="52" alt="wandb" /></td>
+</tr>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="52" alt="tensorflow" /></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="52" alt="flask" /></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="52" alt="typescript" /></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="52" alt="nginx" /></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="52" alt="jupyter" /></td>
+</tr>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="52" alt="opencv" /></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" height="52" alt="grafana" /></td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height="52" alt="github" /></td>
+</tr>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="52" alt="pandas" /></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" height="52" alt="prometheus" /></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="52" alt="vscode" /></td>
+</tr>
+</table>
+
 </div>
-<hr />
 
 ###
 
