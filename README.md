@@ -31,7 +31,7 @@
 
 - 💬 Reach out me through telegram: 0964060587
 
-- 📫 Experience: Content Creation, DevOps, MLOps
+- 📫 Experience: DayOff, DevOps, MLOps, TurnOff
   
 - 🎓 Defense thesis 23/Jun/2025
   
