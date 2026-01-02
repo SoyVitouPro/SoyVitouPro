@@ -41,17 +41,7 @@
 
 <br />
 
-### 🎯 Goals for 2026
 
-- [ ] **Consistency:** Commit code every single day 💻
-
-- [ ] **Content:** Write and publish **40 blog posts** to share technical knowledge ✍️
-
-- [ ] **Social Growth:** Reach **20k followers** on TikTok & **10k followers** on Facebook 📈
-
-- [ ] **Education:** Apply for scholarships to pursue a **Master’s Degree** 🎓
-
-- [ ] **Skills:** Learn Basic the **Korean Language** 🇰🇷
 
 </br>
 <h2>Activity Graph</h2>
