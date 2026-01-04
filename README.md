@@ -13,7 +13,7 @@
  
    
   
- 
+  
 <h3 align="center">zzzz | Khmer OCR | Speech2Text | Voice Conversion | zzzz </h3>
 
 <hr /> 
