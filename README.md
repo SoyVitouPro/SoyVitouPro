@@ -21,7 +21,7 @@
 <!-- right image ( animation gif image right hand side (ok) ) --> 
 <img align="right" alt="coding" width="400" src="thousand_miles.gif"> 
 
- 
+  
 
 - 🔭 I’m currently working on AI Project (ASR, TTS, Face, Voice Cloning, NLP, Image Processing ...)🌱
 
