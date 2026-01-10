@@ -22,7 +22,7 @@
 <img align="right" alt="coding" width="400" src="thousand_miles.gif"> 
 
   
-
+ 
 - 🔭 I’m currently working on AI Project (ASR, TTS, Face, Voice Cloning, NLP, Image Processing ...)🌱
 
 - 🔥 My Tools: Python, Pytorch, Nginx, Caddy, Docker, Cloudflare, Portainer, Flask & Fast API, Termius, wandb ...
