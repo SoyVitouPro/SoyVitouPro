@@ -1,5 +1,5 @@
 <!-- banner image github_thumnail.png you can change ever you want -->
-[![MasterHead](github_thumnail.png)](https://github.com/SoyVitou2019) ​
+[![MasterHead](github_thumnail.png)](https://github.com/SoyVitou2019) ​`
 <h1 align="center">   
   🌲 Hi , 💬 Welcome, All Engineer 🔥   
   <hr />     
@@ -46,7 +46,6 @@
 </br>
 <h2>Activity Graph</h2>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SoyVitouPro&bg_color=000000&color=ffffff&line=ffffff&point=93f915&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 - 💬 My blog post: [soyvitou.bongrean.com](https://soyvitou.bongrean.com/)
