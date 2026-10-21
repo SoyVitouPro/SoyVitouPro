@@ -29,7 +29,7 @@
   
 - 🎓 Defense thesis 23/Jun/2025
   
-- ⚡ Fun fact **update readme everyday**
+- ⚡ Fun fact **Not give up, doesn't mean you'll success**
 
 - 🌲 Thesis Project: **CRAFT + TrOCR**
 
